@@ -1,0 +1,29 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkcyan;
+    color: azure;
+}
+
+a{
+    color: honeydew;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    background-color: rgb(20, 122, 126);
+}
